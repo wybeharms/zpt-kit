@@ -1,0 +1,11 @@
+{
+  "name": "zpt-kit",
+  "displayName": "ZPT Kit",
+  "description": "A guided journey that sets up or improves how your files and folders work with AI. Made by ZPT Partners.",
+  "author": {
+    "name": "ZPT Partners",
+    "email": "wybe@zptpartners.com",
+    "url": "https://zptpartners.com"
+  },
+  "homepage": "https://zptpartners.com"
+}

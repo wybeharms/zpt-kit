@@ -1,0 +1,24 @@
+{
+  "name": "zpt-partners",
+  "owner": {
+    "name": "ZPT Partners",
+    "email": "wybe@zptpartners.com",
+    "url": "https://zptpartners.com"
+  },
+  "description": "Kits by ZPT Partners: guided agent journeys for Claude Code.",
+  "plugins": [
+    {
+      "name": "zpt-kit",
+      "displayName": "ZPT Kit",
+      "source": "./plugin",
+      "description": "A guided journey that sets up or improves how your files and folders work with AI: it builds a first agent folder from scratch, improves an existing setup, or both, and teaches how agents work along the way. Changes nothing without your approval. Start it in any folder by saying \"start the ZPT Kit\".",
+      "author": {
+        "name": "ZPT Partners",
+        "email": "wybe@zptpartners.com",
+        "url": "https://zptpartners.com"
+      },
+      "homepage": "https://zptpartners.com",
+      "keywords": ["setup", "folders", "organization", "knowledge-management", "onboarding", "beginner"]
+    }
+  ]
+}
