@@ -23,7 +23,7 @@ The agent refers to the person by name. No "I" or "you" inside files.
 - Flag anything the person must do, decide, or provide with 🔴 on its own line, in bold.
 - Use relative paths only. Never write an absolute path like `/Users/...` into a file.
 
-## Folder map
+## System map
 
 | Folder or file | What is in it |
 |---|---|

@@ -19,7 +19,7 @@ The agent reads it first every session. A good one covers:
 
 - **Who the person is** and what they do, so the agent does not answer as the wrong person.
 - **What the work is** and what good output looks like.
-- **A folder map**: what lives where and when to read it.
+- **A system map**: what lives where and when to read it.
 - **Rules**: what the agent must always do and never do.
 - **Context**: anything specific to this person or organization.
 
